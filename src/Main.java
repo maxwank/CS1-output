@@ -14,6 +14,9 @@ public class Main {
         chorus1();
         wait(1000);
         clear();
+        verse2();
+        wait(1000);
+        clear();
         chorus2();
         wait(1000);
         clear();
